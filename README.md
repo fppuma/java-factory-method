@@ -3,8 +3,8 @@ Factory Method Pattern
 
 ```mermaid
   graph TD;
-      A-->B;
-      A-->C;
+      BasicStereo-->B;
+      BasicStereo-->C;
       B-->D;
       C-->D;
 ```
