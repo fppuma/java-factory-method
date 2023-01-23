@@ -4,10 +4,10 @@ import org.example.factory.yellow.component.Device;
 
 import java.util.List;
 
-public abstract class BasicStereo {
+public abstract class Stereo {
     protected List<Device> devices;
 
-    public BasicStereo(){
+    public Stereo(){
         createStereo();
     }
 

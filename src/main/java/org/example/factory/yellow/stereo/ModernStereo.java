@@ -3,7 +3,7 @@ package org.example.factory.yellow.stereo;
 import org.example.factory.yellow.component.BluRayPlayer;
 import org.example.factory.yellow.component.FmRadio;
 
-public class ModernStereo extends BasicStereo{
+public class ModernStereo extends Stereo {
     @Override
     public void createStereo() {
         this.devices.add(new FmRadio());
