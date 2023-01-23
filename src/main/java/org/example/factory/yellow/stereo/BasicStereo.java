@@ -1,4 +1,6 @@
-package org.example.factory.yellow;
+package org.example.factory.yellow.stereo;
+
+import org.example.factory.yellow.component.Device;
 
 import java.util.List;
 

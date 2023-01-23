@@ -1,4 +1,4 @@
-package org.example.factory.yellow;
+package org.example.factory.yellow.component;
 
 /**
  * A generic device
