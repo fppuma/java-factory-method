@@ -3,6 +3,6 @@ Factory Method Pattern
 
 ```mermaid
   graph TD;
-      BasicStereo-->ClassicStereo;
-      BasicStereo-->ModernStereo;
+      Stereo-->ClassicStereo;
+      Stereo-->ModernStereo;
 ```
